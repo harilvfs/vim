@@ -36,4 +36,4 @@
 
 <h2>🛠 Troubleshooting</h2>
 
-<p>If you encounter any issues during the setup or while using the configuration, please check the <a href="https://github.com/aayushx402/my-vim-config/issues">Issues</a> section. You can also create a new issue if your problem is not listed.</p>
+<p>If you encounter any issues during the setup or while using the configuration, please check the <a href="https://github.com/aayushx402/MyVim/issues">Issues</a> section. You can also create a new issue if your problem is not listed.</p>
