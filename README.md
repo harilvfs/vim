@@ -6,13 +6,13 @@
 
 <h3>1. Clone the Repository</h3>
 
-<pre><code>git clone https://github.com/aayushx402/my-vim-config.git</code></pre>
+<pre><code>git clone https://github.com/aayushx402/MyVim</code></pre>
 
 <h3>2. Run the Setup Script</h3>
 
 <p>Navigate into the cloned directory and run the setup script to automatically configure Vim:</p>
 
-<pre><code>cd my-vim-config
+<pre><code>cd MyVim
 ./setup.sh</code></pre>
 
 <p>The script will handle everything, from installing necessary plugins to setting up your Vim environment.</p>
