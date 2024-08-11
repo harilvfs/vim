@@ -19,10 +19,7 @@
 
 <h3>3. Start Using Vim</h3>
 
-<p>Once the setup is complete, simply open Vim and enjoy your new, optimized editing environment:</p>
-
 <pre><code>vim</code></pre>
-
 
 <h2>📂 File Structure</h2>
 
