@@ -12,7 +12,7 @@
 
 <p>Navigate into the cloned directory and run the setup script to automatically configure Vim:</p>
 
-<pre><code>cd vim
+<pre><code>cd vim/
 ./setup.sh</code></pre>
 
 <p>The script will handle everything, from installing necessary plugins to setting up your Vim environment.</p>
