@@ -12,7 +12,7 @@ echo -ne "
                                                                                                                   
                                                                                                                    
 "
-VIMRC_URL="https://raw.githubusercontent.com/aayushx402/MyVim/main/vimrc"
+VIMRC_URL="https://raw.githubusercontent.com/harilvfs/vim/refs/heads/fixsetup/vimrc"
 
 command_exists() {
     command -v "$1" >/dev/null 2>&1
